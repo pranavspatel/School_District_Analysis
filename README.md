@@ -5,12 +5,17 @@
 We have to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once we have replaced the math and reading scores, Maria would like you to repeat the school district analysis that you did in this module and write up a report to describe how these changes affected the overall analysis.
 
 1.Replace ninth-grade reading and math scores
+
 2.Repeat the school district analysis
 
 
 ## Results
 There is not much change in the overall analysis as the dataset is very large changing only the 9th grade data from the Thomas High School does not alter the overall result of the analysis.
 Below is the link to the images
+Earlier analysis
+1 https://github.com/pranavspatel/School_District_Analysis/blob/main/Earlier%20analysis.png
+After removing the data from the Thomas High School
+2 https://github.com/pranavspatel/School_District_Analysis/blob/main/analysis%20excluding%20Thomas%20high%20school.png
 
 
 
